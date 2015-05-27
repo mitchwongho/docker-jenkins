@@ -4,7 +4,7 @@
 #######################################################################
 
 # Set the base image to Ubuntu
-FROM oreomitch/ubuntu-jdk:14.04-JDK7
+FROM oreomitch/ubuntu-jdk:15.04-JDK7
 # File Author / Maintainer
 MAINTAINER Mitchell Wong Ho <oreomitch@gmail.com>
 
